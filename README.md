@@ -2,6 +2,13 @@
 
 本仓库包含了 Teambition 相关的所有 AI 助手技能（Skills），用于增强 AI 助手在项目管理、数据统计等场景下的能力。
 
+## 快速上手
+
+通过命令行快速安装
+```shell
+npx skills add https://github.com/teambition/skills --skill teambition
+```
+
 ## 📦 包含的 Skills
 
 ### 1. teambition - 项目管理助手
